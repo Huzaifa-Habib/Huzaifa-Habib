@@ -28,7 +28,7 @@
 <img src="https://img.icons8.com/color/2x/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="Firebase">
                                                                            
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Habib&theme=tokyonight
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Habib&theme=tokyonight)
 <img src="
  
 
