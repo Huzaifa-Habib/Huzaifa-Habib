@@ -30,6 +30,8 @@
 </p>
 <h3>My Github Stats:</h3>
 ![profile](https://user-images.githubusercontent.com/101453901/210135427-5f2be7f1-a6b3-47b8-ba7a-c13eaeadfd48.PNG)
+![profile](https://user-images.githubusercontent.com/101453901/210135454-f1439766-648b-4838-9709-fe5ea536c74c.PNG)
+<img src="https://user-images.githubusercontent.com/101453901/210135454-f1439766-648b-4838-9709-fe5ea536c74c.PNG"/>
 
  
 
