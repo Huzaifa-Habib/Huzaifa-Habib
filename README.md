@@ -26,10 +26,11 @@
 <img src="https://img.icons8.com/stickers/2x/css3.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="CSS">
 <img src="https://www.nicepng.com/png/detail/242-2428861_pwa-progressive-web-app-logo-pwa-progressive-web.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="PWA">
 <img src="https://img.icons8.com/color/2x/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="Firebase">
-
-                                                                                        
-                                                                                                                                        
+                                                                           
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Habib&theme=tokyonight)
+
+
 
 
 
