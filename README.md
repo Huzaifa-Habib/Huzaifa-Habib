@@ -16,7 +16,7 @@
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px" title="javascript">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="VS Code>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="VS Code"/>
 <img src="https://img.icons8.com/office/512/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="React.js">
 <img src="https://img.icons8.com/color/2x/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="Nodejs">
 <img src="https://img.icons8.com/color/2x/mongodb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="mongoDB">
