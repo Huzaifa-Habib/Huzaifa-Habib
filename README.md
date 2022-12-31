@@ -28,8 +28,7 @@
 <img src="https://img.icons8.com/color/2x/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="Firebase">
                                                                            
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Habib&theme=tokyonight)
-<img src="profle.png"/>
+<h3>My Github Stats:</h3>
  
 ![profile](https://user-images.githubusercontent.com/101453901/210135309-407f4c0c-8cf8-4f9f-819b-e3c22d3bc2e1.PNG)
 
