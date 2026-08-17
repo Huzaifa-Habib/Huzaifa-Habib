@@ -78,12 +78,6 @@ Over my career as a top-rated freelancer on platforms like **Fiverr, Upwork, and
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Habib&show_icons=true&theme=radical&hide_border=true" alt="Huzaifa's GitHub Stats" />
-</p>
-
 <p align="center">
   <i>"Simplicity is the soul of efficiency." Let's build something exceptional together.</i>
 </p>
