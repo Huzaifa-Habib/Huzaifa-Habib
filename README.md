@@ -12,7 +12,40 @@ I build performant, reliable, and conversion-focused digital products—from cus
   <a href="https://www.facebook.com/huzaifa.habib.501598"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/github/followers/Huzaifa-Habib?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Huzaifa-Habib?label=Profile%20stars&style=flat-square&logo=github" alt="GitHub profile stars" />
+  <a href="https://github.com/Huzaifa-Habib?tab=achievements"><img src="https://img.shields.io/badge/View-GitHub%20Achievements-181717?style=flat-square&logo=github" alt="View GitHub achievements" /></a>
+</p>
+
 </div>
+
+---
+
+## GitHub Activity & Achievements
+
+<p align="center">
+  <a href="https://github.com/Huzaifa-Habib?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Huzaifa-Habib&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievement trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Huzaifa-Habib">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Habib&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Huzaifa Habib's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Huzaifa-Habib">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Habib&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Huzaifa Habib's most used languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Huzaifa-Habib">
+    <img src="https://streak-stats.demolab.com?user=Huzaifa-Habib&theme=transparent&hide_border=true" alt="Huzaifa Habib's GitHub contribution streak" />
+  </a>
+</p>
+
+> GitHub’s official Achievement badges are managed and displayed by GitHub on the [Achievements](https://github.com/Huzaifa-Habib?tab=achievements) tab. The cards above provide a live overview of profile activity, contributions, languages, and achievements.
 
 ---
 
