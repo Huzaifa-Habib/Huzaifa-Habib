@@ -14,7 +14,7 @@ I build performant, reliable, and conversion-focused digital products—from cus
 
 <p>
   <img src="https://img.shields.io/github/followers/Huzaifa-Habib?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Huzaifa-Habib?label=Profile%20stars&style=flat-square&logo=github" alt="GitHub profile stars" />
+  <img src="https://img.shields.io/github/stars/Huzaifa-Habib?label=Profile%20repository%20stars&style=flat-square&logo=github" alt="Profile repository stars" />
   <a href="https://github.com/Huzaifa-Habib?tab=achievements"><img src="https://img.shields.io/badge/View-GitHub%20Achievements-181717?style=flat-square&logo=github" alt="View GitHub achievements" /></a>
 </p>
 
@@ -26,26 +26,23 @@ I build performant, reliable, and conversion-focused digital products—from cus
 
 <p align="center">
   <a href="https://github.com/Huzaifa-Habib?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Huzaifa-Habib&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievement trophies" />
+    <img src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements" />
+  </a>
+  <a href="https://github.com/Huzaifa-Habib?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub repositories" />
+  </a>
+  <a href="https://github.com/Huzaifa-Habib?tab=overview&from=2022-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/GitHub-Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Huzaifa-Habib">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Habib&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Huzaifa Habib's GitHub statistics" />
-  </a>
-  <a href="https://github.com/Huzaifa-Habib">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Habib&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Huzaifa Habib's most used languages" />
-  </a>
+  <img src="https://img.shields.io/github/commit-activity/y/Huzaifa-Habib/Huzaifa-Habib?label=Profile%20repository%20activity&style=flat-square&logo=github" alt="Profile repository yearly commit activity" />
+  <img src="https://img.shields.io/github/last-commit/Huzaifa-Habib/Huzaifa-Habib?label=Last%20profile%20update&style=flat-square&logo=github" alt="Last profile repository update" />
+  <img src="https://img.shields.io/github/repo-size/Huzaifa-Habib/Huzaifa-Habib?label=Profile%20README%20size&style=flat-square&logo=github" alt="Profile README repository size" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Huzaifa-Habib">
-    <img src="https://streak-stats.demolab.com?user=Huzaifa-Habib&theme=transparent&hide_border=true" alt="Huzaifa Habib's GitHub contribution streak" />
-  </a>
-</p>
-
-> GitHub’s official Achievement badges are managed and displayed by GitHub on the [Achievements](https://github.com/Huzaifa-Habib?tab=achievements) tab. The cards above provide a live overview of profile activity, contributions, languages, and achievements.
+> GitHub’s official Achievement badges are managed by GitHub and are available from the [Achievements tab](https://github.com/Huzaifa-Habib?tab=achievements). The links above use stable GitHub and Shields.io endpoints instead of third-party statistic-card services that can fail because of rate limits or API changes.
 
 ---
 
